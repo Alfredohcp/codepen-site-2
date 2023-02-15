@@ -1,0 +1,32 @@
+body{
+   
+  background:  url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bob-Marley.jpg/440px-Bob-Marley.jpg") no-repeat fixed center; 
+  background-size: cover;
+   background-color: rgba(255, 255, 255, 0.7);
+ background-blend-mode: lighten;
+  position: center;
+
+}
+h2{
+  color:red;
+  background-color: lightgreen;
+}
+h3{
+  color:lightblue;
+  background-color:red;
+}
+p{
+  background-color: lightblue;
+  color: green;
+}
+#h33{
+  background-color: green;
+}
+#p3{
+  background-color: lightgreen;
+  color: purple;
+}
+form{
+  background-color: lightgreen;
+  width:300px
+}
